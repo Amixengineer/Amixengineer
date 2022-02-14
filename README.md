@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 ### Codewars Badge
-As a developer, who always enjoys to get into a new challenge I would like to solve one or two Kata daily. I believe that it helps me to improve my problem-solving ability
+As a developer, who always enjoys to get into a new challenge I would like to solve one or two Kata daily. I believe that it helps me to improve my problem-solving ability [here is my profile](https://www.codewars.com/users/amirmahmoudi)
 
 ![amir mahmoudi codewars](https://www.codewars.com/users/amirmahmoudi/badges/large)
